@@ -1,9 +1,6 @@
 
 # E-SHOP
 
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://example.com)
-[![GitHub license](https://img.shields.io/github/license/username/repo.svg)](https://github.com/username/repo/blob/master/LICENSE)
-
 ## Description
 
 "E-shop" is a vibrant and user-friendly clothing e-commerce platform designed to provide customers with a seamless shopping experience. The primary purpose of E-shop is to offer a diverse range of clothing items, accessories, and footwear for men, women, and children, catering to various styles, sizes, and preferences.
@@ -70,9 +67,3 @@ Please create an HTML file using VScode and ensure that each segment of code is 
 
 By following these steps and utilizing the described functionalities, you can navigate the E-shop website effectively, browse products, make purchases, and manage their account with ease.
 
-
-## License
-
-Specify the license under which your project is released. Include any additional terms if needed.
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
